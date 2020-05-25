@@ -1,4 +1,4 @@
-local API_URL = 'http://127.0.0.1/api/v1'
+local API_URL = 'http://gmod_database_webserver/api/v1'
 
 --[[
     HTTP REST endpoint
