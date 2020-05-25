@@ -4,7 +4,7 @@ PS.Config = {}
 
 PS.Config.CommunityName = "My Community"
 
-PS.Config.DataProvider = 'pdata'
+PS.Config.DataProvider = 'http'
 
 PS.Config.Branch = 'https://raw.github.com/adamdburton/pointshop/master/' -- Master is most stable, used for version checking.
 PS.Config.CheckVersion = true -- Do you want to be notified when a new version of Pointshop is avaliable?
