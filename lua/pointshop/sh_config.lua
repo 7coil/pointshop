@@ -2,7 +2,7 @@ PS.Config = {}
 
 -- Edit below
 
-PS.Config.CommunityName = "My Community"
+PS.Config.CommunityName = 'Garry\'s Mod for Docker'
 
 PS.Config.DataProvider = 'http'
 
